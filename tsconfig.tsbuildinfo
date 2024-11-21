@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/mock/mockfolders.ts","./src/app.vue","./src/components/foldermodal.vue","./src/components/foldertree.vue","./src/components/modal.vue"],"errors":true,"version":"5.6.3"}
